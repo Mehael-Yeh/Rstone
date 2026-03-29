@@ -1,0 +1,49 @@
+properties:
+  file.name:
+    displayName: 牌号
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.folder == "产品列表"
+    order:
+      - file.name
+      - 实验牌号
+      - 工程师
+      - tags
+      - 固含
+      - 羟值
+      - 水接触角
+      - 技术源
+      - 对标
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: 实验牌号
+        direction: ASC
+      - property: 对标
+        direction: ASC
+      - property: 粘度
+        direction: ASC
+      - property: 固含
+        direction: DESC
+      - property: 水接触角
+        direction: ASC
+      - property: 羟值
+        direction: DESC
+      - property: file.tags
+        direction: DESC
+      - property: formula.未命名
+        direction: ASC
+    columnSize:
+      file.name: 118
+      note.工程师: 80
+      note.tags: 672
+      note.固含: 98
+      note.羟值: 79
+      note.水接触角: 112
+      note.技术源: 90
+      note.对标: 119
+  - type: table
+    name: 视图

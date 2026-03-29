@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "path:产品列表  ",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:水性 tag:#UV",
+      "color": {
+        "a": 1,
+        "rgb": 7885536
+      }
+    },
+    {
+      "query": "tag:#油性 tag:#UV",
+      "color": {
+        "a": 1,
+        "rgb": 14701207
+      }
+    },
+    {
+      "query": "tag:#PUD  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431008
+      }
+    },
+    {
+      "query": "tag:#水性 tag:#PU",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#油性 tag:#PU",
+      "color": {
+        "a": 1,
+        "rgb": 14606418
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 1.29854229354731,
+  "lineSizeMultiplier": 1.1098161150117,
+  "collapse-forces": true,
+  "centerStrength": 0.65971247074557,
+  "repelStrength": 11.8248077566031,
+  "linkStrength": 0.942159812771648,
+  "linkDistance": 129,
+  "scale": 0.9999999999999997,
+  "close": false
+}

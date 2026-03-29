@@ -1,0 +1,30 @@
+properties:
+  note.基材:
+    displayName: 水煮
+  note.tags:
+    displayName: 基材
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.folder == "产品应用"
+    order:
+      - file.name
+      - tags
+      - 底漆
+      - 中漆
+      - 面漆
+      - 基材
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: 基材
+        direction: ASC
+      - property: tags
+        direction: DESC
+    columnSize:
+      file.name: 134
+      note.tags: 136
+      note.底漆: 124
+      note.面漆: 124

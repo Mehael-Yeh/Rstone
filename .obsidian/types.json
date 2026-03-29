@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "粘度": "text",
+    "固含": "number",
+    "羟值": "number",
+    "实验牌号": "text",
+    "水接触角": "number"
+  }
+}
