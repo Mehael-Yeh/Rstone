@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "796a0b7b65686f37",
+        "id": "6cedc7ddff161cf0",
         "type": "tabs",
         "children": [
           {
-            "id": "ec745d441a38a350",
+            "id": "1c63fe30d93c4a96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "产品配方/RD1010-4-亮.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "RD1010-4-亮"
+              "title": "新标签页"
             }
           }
         ]
@@ -154,22 +150,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "大纲"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,38 +173,39 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec745d441a38a350",
+  "active": "1c63fe30d93c4a96",
   "lastOpenFiles": [
+    "产品应用数据库.base",
+    "产品列表/RD919-23.md",
+    "产品列表/RD824-8.md",
+    "产品配方/RS8226-底.md",
+    "产品配方/RS8214-黑.md",
+    "产品配方/RS8182-银.md",
+    "产品配方/RS7959-2-哑.md",
+    "产品配方/RS7936-亮.md",
+    "产品配方/RS7767-银.md",
     "产品配方/RD1149-9-亮.md",
     "产品配方/RD1010-4-亮.md",
-    "产品应用数据库.base",
+    "产品配方/RD919-23-哑.md",
+    "产品配方/RD1160-黑.md",
+    "产品配方/RS7939-亮.md",
     "产品配方/RS7966-哑.md",
+    "产品配方/RS8188-哑.md",
+    "产品配方/RS8214-银.md",
+    "产品应用/水性UV1涂银粉-1.md",
+    "产品应用/水性UV2涂哑光-1.md",
     "产品列表/RS7966.md",
     "产品应用/水性UV1涂哑光-2.md",
-    "产品配方/RS8182-银.md",
-    "产品配方/RS8214-银.md",
-    "产品配方/RD1160-黑.md",
     "产品应用/水性PU3涂高光-3.md",
     "产品列表/RD1160.md",
     "产品应用/水性PU3涂高光-2.md",
     "锐石产品数据库.base",
-    "产品配方/RS8214-黑.md",
-    "产品配方/RD919-23-哑.md",
-    "产品配方/RS7936-亮.md",
-    "产品配方/RS7767-银.md",
-    "产品配方/RS7939-亮.md",
-    "产品配方/RS7959-2-哑.md",
-    "产品配方/RS8226-底.md",
-    "产品配方/RS8188-哑.md",
-    "产品列表/RD824-8.md",
     "产品列表/RS8257.md",
     "产品列表/RS1173.md",
-    "产品列表/RS1126-1.md",
-    "产品应用/水性UV1涂哑光-1.md",
-    "产品配方/RD910-17-哑.md",
     "产品应用",
     "产品配方",
     "链接文档"
